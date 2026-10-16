@@ -1,0 +1,14 @@
+{
+  "band_profiles": [
+    "RGB+NIR"
+  ],
+  "models": [
+    "static",
+    "temporal"
+  ],
+  "splits": [
+    "ood_test",
+    "test"
+  ],
+  "total_eval_runs": 11
+}

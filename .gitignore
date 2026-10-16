@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+data/raw/
+data/processed/
+data/processed_fast/
+artifacts/models/
+artifacts/runs/
+artifacts/eval/*.json
+artifacts/eval/*.png
+!artifacts/eval/temporal_test_fast_correctedsplit.reliability.png
